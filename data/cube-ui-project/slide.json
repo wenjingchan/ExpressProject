@@ -1,0 +1,20 @@
+{
+  "code":0,
+  "data":[
+    {
+      "text":"1",
+      "url": "http://www.didichuxing.com/",
+      "image": "//webapp.didistatic.com/static/webapp/shield/cube-ui-examples-slide01.png"
+    },
+    {
+      "text":"1",
+      "url": "http://www.didichuxing.com/",
+      "image": "//webapp.didistatic.com/static/webapp/shield/cube-ui-examples-slide02.png"
+    },
+    {
+      "text":"1",
+      "url": "http://www.didichuxing.com/",
+      "image": "//webapp.didistatic.com/static/webapp/shield/cube-ui-examples-slide03.png"
+    }
+  ]
+}
